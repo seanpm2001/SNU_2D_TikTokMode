@@ -1,0 +1,1 @@
+The SNU 2D TikTok compatibility mode. This module is required for certain SNU distributions. [Click/tap here to learn how to build SNU](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
