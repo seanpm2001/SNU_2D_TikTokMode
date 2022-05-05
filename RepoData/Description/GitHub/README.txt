@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The SNU 2D TikTok compatibility mode. This module is required for certain SNU distributions. [Click/tap here to learn how to build SNU](https://gist.github.com/seanpm2001/745564a46186888e829fdeb9cda584de)
